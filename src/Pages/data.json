@@ -1,0 +1,809 @@
+{
+    "living_Room": [
+    {
+        "id": 1,
+        "title": "Book Shelf",
+        "price": "$200",
+        "description": "5-tier Shintenchi bookshelf in rustic brown, perfect for storing books, CDs, and movies.",
+        "imageSrc": "assets/img/living room/1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Lamp",
+        "price": "$300",
+        "description": "Dimmable arc floor lamp with 1000 lumens LED Edison bulb and linen shade, perfect for any room.",
+        "imageSrc": "assets/img/living room/2.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Side Table",
+        "price": "$250",
+        "description": "VASAGLE 3-tier side table with charging station, USB ports, and outlets, perfect as a nightstand, in camel brown and black.",
+        "imageSrc": "assets/img/living room/3.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Coat Rack Wall",
+        "price": "$100",
+        "description": "Tatub 29\" rustic wall-mounted coat rack with shelf and 5 metal hooks, ideal for entryways, living rooms, and bedrooms in brown and black.",
+        "imageSrc": "assets/img/living room/4.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Tier Shelves",
+        "price": "$400",
+        "description": "Greenco 5-tier corner shelf in espresso finish, easy-to-assemble floating shelves for any room.",
+        "imageSrc": "assets/img/living room/5.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Plant Stand",
+        "price": "$150",
+        "description": "Bamworld 3-tier wooden plant stand for indoor and outdoor use, perfect for displaying multiple plants with a boho touch.",
+        "imageSrc": "assets/img/living room/6.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Rug for Living Room",
+        "price": "$99.99",
+        "description": "Comeet 5'x8' modern geometric shag area rug in black and white, washable and non-slip, ideal for bedrooms, living rooms, and nurseries.",
+        "imageSrc": "assets/img/living room/7.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Blackout Curtain",
+        "price": "$200",
+        "description": "NICETOWN blackout curtain for patio sliding doors, extra wide and room darkening, in natural color (W100 x L84, 1 panel).",
+        "imageSrc": "assets/img/living room/8.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Mirror Standing",
+        "price": "$300",
+        "description": "Sweetcrispy 59\"x16\" arched full-length mirror in gold, can stand, hang, or lean, perfect for bedrooms and living rooms.",
+        "imageSrc": "assets/img/living room/9.jpg"
+    }
+
+],
+"kitchen": [
+    {
+        "id": 1,
+        "title": "Nutrichef",
+        "price": "$200",
+        "description": "Nutrichef 3-in-1 Cheese Grater & Shredder with suction base, safety lock, and three blades for fine, medium, and strip textures.",
+        "imageSrc": "assets/img/kitchen/1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Godboat",
+        "price": "$300",
+        "description": "Godboat 2-Tier Dish Drying Rack with drainboard and mat, featuring a knife, fork, and cup rack—perfect gifts for women and ideal kitchen gadgets.",
+        "imageSrc": "assets/img/kitchen/2.jpg"
+    },
+    {
+        "id": 3,
+        "title": "DASH Mini Rice",
+        "price": "$250",
+        "description": "DASH Mini Rice Cooker Steamer in pink with a removable nonstick pot, keep warm function, and recipe guide for soups, stews, and grains.",
+        "imageSrc": "assets/img/kitchen/3.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Breakfast Station",
+        "price": "$100",
+        "description": "GreenLife 3-in-1 Breakfast Station in turquoise with PFAS-free dual griddles, 2-slice toast drawer, and timer for versatile cooking.",
+        "imageSrc": "assets/img/kitchen/4.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Vegetable Chopper", 
+        "price": "$400",
+        "description": "VEVOR Commercial Vegetable Chopper with four stainless steel blades for dicing, slicing, and French fries, ideal for home and restaurants",
+        "imageSrc": "assets/img/kitchen/4.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Vantic Garlic Press",
+        "price": "$150",
+        "description": "Vantic Garlic Press Rocker is a stainless steel garlic mincer and crusher with a peeler and scraper for easily smashing garlic.",
+        "imageSrc": "assets/img/kitchen/6.jpg"
+    },
+    {
+        "id": 7,
+        "title": "YouCopia",
+        "price": "$99.99",
+        "description": "YouCopia StoraLid Adjustable Lid Organizer is a large kitchen cabinet storage solution for food container lids.",
+        "imageSrc": "assets/img/kitchen/7.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Multicolor magnetic",
+        "price": "$200",
+        "description": "Multicolor magnetic stainless steel measuring spoons set with leveler, stackable and fits spice jars—great for baking.",
+        "imageSrc": "assets/img/kitchen/8.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Utopia",
+        "price": "$300",
+        "description": "Utopia Towels Kitchen Towels (15 x 25 inches) in black, made from 100% ring-spun cotton, super soft and absorbent,",
+        "imageSrc": "assets/img/kitchen/9.jpg"
+    }
+
+],
+"bedroom": [
+    {
+        "id": 1,
+        "title": "bedside lamps",
+        "price": "$200",
+        "description": "Mini minimalist bedside lamps with round flaxen shades, 11 inches tall—ideal for bedrooms, dorms, and offices, available in a 2-pack.",
+        "imageSrc": "assets/img/bedroom/1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Umbra Twilight ",
+        "price": "$300",
+        "description": "Umbra Twilight Double Blackout Curtain Rod, adjustable 28 to 48 inches, with a wrap-around design in dark bronze.",
+        "imageSrc": "assets/img/kitchen/2.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Queen Mattress",
+        "price": "$250",
+        "description": "Queen 3-inch memory foam mattress topper with cooling gel infusion, CertiPUR-US certified, comes in a box (60” x 80”), in blue.",
+        "imageSrc": "assets/img/bedroom/3.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Rossetta Star Projector",
+        "price": "$100",
+        "description": "Rossetta Star Projector with remote and Bluetooth speaker, featuring 14 LED colors for bedrooms, kids' rooms, and home theaters.",
+        "imageSrc": "assets/img/bedroom/4.jpg"
+    },
+    {
+        "id": 5,
+        "title": "alarm clock",
+        "price": "$400",
+        "description": "Digital projection alarm clock with large LED display, 180° projector, USB charger, battery backup, and loud dual alarms for heavy sleepers.",
+        "imageSrc": "assets/img/bedroom/5.jpg"
+    },
+    {
+        "id": 6,
+        "title": "SUPERJARE nightstand ",
+        "price": "$150",
+        "description": "SUPERJARE nightstand with charging station features an adjustable fabric drawer and 3-tier storage, perfect for bedrooms",
+        "imageSrc": "assets/img/bedroom/6.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Frida Baby ",
+        "price": "$99.99",
+        "description": "Frida Baby 3-in-1 cool mist humidifier with diffuser and nightlight, quiet, auto shut-off, and runs over 24 hours—perfect for bedrooms and nurseries.",
+        "imageSrc": "assets/img/bedroom/7.jpg"
+    },
+    {
+       
+        "id": 8,
+        "title": "Chicrug Soft",
+        "price": "$200",
+        "description": "Chicrug 2x6 Feet Soft Fluffy Runner Rug for Bedroom or Living Room – Non-Shedding Shag Carpet, Perfect for Nurseries and Kids' Rooms, Grey.",
+        "imageSrc": "assets/img/bedroom/8.jpg"
+    },
+    {
+        "id": 9,
+        "title": "SUPERJARE Nightstand ",
+        "price": "$300",
+        "description": "SUPERJARE Nightstand with Charging Station and Adjustable Fabric Drawer, 3-Tier Storage End Table for Bedroom or Living Room, Rustic Brown and Black.",
+        "imageSrc": "assets/img/bedroom/9.jpg"
+    }
+
+],
+
+"elegant": [
+    {
+        "id": 1,
+        "title": "Lush Decor",
+        "price": "$200",
+        "description": "Lush Decor Reyna Ruffle Curtain Panel Set (54' W x 84' L, Wheat) – Romantic Flowing Curtains for Farmhouse or Cottage Decor.",
+        "imageSrc": "assets/img/elegant/1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Pumpkin Fall",
+        "price": "$300",
+        "description": "Pumpkin Fall Decorative Throw Pillow Covers (18'x18', Set of 2) – Cream White Soft Faux Fur for Autumn Harvest, Fluffy Plush Accent for Farmhouse Couch.",
+        "imageSrc": "assets/img/elegant/2.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Wall Sconce",
+        "price": "$250",
+        "description": "Set of 2 Wall Sconces (14.4 x 3.5 inches) with Tea Light Candle Holders – Antique Bronze Metal Wall Art for Living Room, Bathroom, Dining Room, and Office.",
+        "imageSrc": "assets/img/elegant/3.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Panghuhu88 ",
+        "price": "$100",
+        "description": "Panghuhu88 Crystal Chandelier (15 Lights) – Clear K9 Crystal Luxury Candle Ceiling Light Pendant Fixture for Dining Room, Living Room, or Bedroom.",
+        "imageSrc": "assets/img/elegant/4.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Candle Warmer",
+        "price": "$400",
+        "description": "Candle Warmer Lamp with 2 Bulbs, Timer & 7-Level Dimmer – Fits Cup Jar Candles, Crystal Heater for Scented Wax, Elegant Clear Glass Home Decor.",
+        "imageSrc": "assets/img/elegant/5.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Peacock",
+        "price": "$150",
+        "description": "Bits and Pieces - Peacock Keepsake Box - Peacock Art - Golden Jewelry Box",
+        "imageSrc": "assets/img/elegant/6.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Renditions Gallery",
+        "price": "$99.99",
+        "description": "Renditions Gallery Canvas Wall Art (18' x 27') – Elegant White Dressed Woman in Green Meadows, Perfect for Kitchen, Bedroom, or Lounge Decor.",
+        "imageSrc": "assets/img/elegant/7.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Deco 79 ",
+        "price": "$200",
+        "description": "Deco 79 Porcelain Ceramic Abstract Decorative Sculpture (8' x 4' x 17') with Black Base – Silver Accent Figurine for Home Decor.",
+        "imageSrc": "assets/img/elegant/8.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Howard Elliot",
+        "price": "$300",
+        "description": "Howard Elliot Wall Mirror Sconce Candle Holder (31 x 10 inches) – Round Silver Mirrored Accent Piece for Bedroom, Living Room, or Dining Room, Perfect for Gifting.",
+        "imageSrc": "assets/img/elegant/9.jpg"
+    }
+
+],
+
+
+"sofa":[
+    {
+        "id": 1,
+        "title": "Hoekbank Met Sofa",
+        "price": "$450",
+        "description": "Comfy and Relaxing SofaSet",
+        "imageSrc": "assets/img/hoekbank_met_sofa.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Pummba 2 Module Sofa",
+        "price": "$200",
+        "description": "Pummba Furry Twoseater Sofaset Convertable Into Bed Or Couch",
+        "imageSrc": "assets/img/pummb2modulesofa.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Modular Sofa",
+        "price": "$390",
+        "description": "Modular Comfy Sofa With Good Quality Of Foam",
+        "imageSrc": "assets/img/modularsofa.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Corner Sofa",
+        "price": "$400",
+        "description": "Corner Sofaset Sevenseater L shaped",
+        "imageSrc": "assets/img/cornersofa.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Folding Sofa Couch",
+        "price": "$500",
+        "description": "Folding Sofa Bed Couch Memory Foam With Sleeper Pillow",
+        "imageSrc": "assets/img/foldingsofa.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Beanbag Bed Folding Sofa",
+        "price": "$600",
+        "description": "Beanbag Folding Sofa With Thick Mattress And Long Floor",
+        "imageSrc": "assets/img/beanbagsofa.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Love Seat Sofa, Couch",
+        "price": "$780",
+        "description": "Comfy Sofa Couch With Extra Deep Seats, Couch For Living Room",
+        "imageSrc": "assets/img/loveseat.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Leather Sofa",
+        "price": "$590",
+        "description": "Top Grain Leather Sofa 2 Seats Luxury And Classic",
+        "imageSrc": "assets/img/leathersofa.jpg"
+    },
+    {
+        "id": 9,
+        "title": "5 Piece Recliner Sofa",
+        "price": "$200",
+        "description": "Recliner Sofa Stretch Sofa Slipcovers,Spandex Jacquard Furniture",
+        "imageSrc": "assets/img/sofalast.jpg"
+    }
+],
+"chairs":[
+    {
+        "id": 1,
+        "title": "Tan Dinning Chairs",
+        "price": "$200",
+        "description": "Tan Dinning Chairs Set Of 2 With High Backs Mid Century Modren Design",
+        "imageSrc": "assets/img/tandinningchairs.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Lazy Chair",
+        "price": "$700",
+        "description": "Titta Lazy Chair With Ottoman Modren Large Accent Lounge Chair",
+        "imageSrc": "assets/img/lazychair.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Cross Legged Chair",
+        "price": "$370",
+        "description": "Cross Legged Armless Wide Chair Adjustable",
+        "imageSrc": "assets/img/crossleged.jpg"
+    },
+    {
+        "id": 4,
+        "title": "",
+        "price": "$200",
+        "description": "jjjaijahsais",
+        "imageSrc": "assets/img/banner.jpg"
+    },
+    {
+        "id": 5,
+        "title": "chair",
+        "price": "$200",
+        "description": "jjjaijahsais",
+        "imageSrc": "assets/img/banner.jpg"
+    },
+    {
+        "id": 6,
+        "title": "chair",
+        "price": "$200",
+        "description": "jjjaijahsais",
+        "imageSrc": "assets/img/banner.jpg"
+    },
+    {
+        "id": 7,
+        "title": "chair",
+        "price": "$200",
+        "description": "jjjaijahsais",
+        "imageSrc": "assets/img/banner.jpg"
+    },
+    {
+        "id": 8,
+        "title": "chair",
+        "price": "$200",
+        "description": "jjjaijahsais",
+        "imageSrc": "assets/img/banner.jpg"
+    },
+    {
+        "id": 9,
+        "title": "chair",
+        "price": "$200",
+        "description": "jjjaijahsais",
+        "imageSrc": "assets/img/banner.jpg"
+    }
+],
+"tables":[
+    {
+        "id": 1,
+        "title": "Round White Dining Kitchen Table",
+        "price": "$270",
+        "description": "Round White Dining Kitchen Table Modern Leisure Table 31.5 with Wooden Legs",
+        "imageSrc": "assets/img/dinning2piece.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Wood Bistro Pub Table",
+        "price": "$390",
+        "description": "Wood Bistro Pub Table Round Bar Height Cocktail Table, 21.7 Inch Top and 40.5 Inch Height, Natural Wood Top and Heavy Metal Frame High Top Bar Table",
+        "imageSrc": "assets/img/woodtable.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Noyes Metal Dining Table",
+        "price": "$100",
+        "description": "Roundhill Furniture Noyes Metal Dining Table with Laminated Faux Marble Top, 28.50 x 45.00 x 30.00 Inches, Off-White",
+        "imageSrc": "assets/img/rectangulartable.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Folding Table",
+        "price": "$230",
+        "description": "Folding Dining Table, Movable Dining Table, Expandable Kitchen Table, Versatile Table with 6 Wheels",
+        "imageSrc": "assets/img/foldingtable.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Dining Table, 5-Light Kitchen Table",
+        "price": "$500",
+        "description": "Dining Room Light Fixture Over Table, Farmhouse 5-Light Kitchen Island Lighting, Chandeliers for Dining Room",
+        "imageSrc": "assets/img/diningtable3.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Glass Dining Table Cross Base",
+        "price": "$300",
+        "description": "Glass Dining Table,Modern Tempered Glass Top Dining Room Table with Cross Base",
+        "imageSrc": "assets/img/glasstable.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Round Table for 4",
+        "price": "$320",
+        "description": "Round Dining Table for 4, Modern Farmhouse Kitchen Table, 47 Inch",
+        "imageSrc": "assets/img/roundtable.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Lilola Home Table",
+        "price": "$200",
+        "description": "Lilola Home Jasper Ebony Black 59 W Contemporary Round Dining Table",
+        "imageSrc": "assets/img/roundtable2.jpg"
+    },
+    {
+        "id": 9,
+        "title": "4 Legged Table Top Base Glass",
+        "price": "$200",
+        "description": "Coaster Furniture Paxton Mid Century Modern Wood Table Base Only Glass",
+        "imageSrc": "assets/img/4legtable.jpg"
+    }
+],
+"storage":[
+    {
+        "id": 1,
+        "title": "Bambo Kitchen Shelf",
+        "price": "$100",
+        "description": "NEX MOOACE Bamboo Kitchen Cabinet and Counter Shelf Organizer",
+        "imageSrc": "assets/img/bamboshelves.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Evelots Wire Rack Cabinet Shelf",
+        "price": "$200",
+        "description": "Evelots Wire Rack Cabinet Shelf Organizer Set of 2 White Kitchen Organization",
+        "imageSrc": "assets/img/rack.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Spice Jars Holder",
+        "price": "$200",
+        "description": "Spice Jars Holder In Minimum Space",
+        "imageSrc": "assets/img/spiceholder.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Kitchen Rack Set Of 4",
+        "price": "$190",
+        "description": "Kitchen Cabinet Organizer Shelves Set of 4",
+        "imageSrc": "assets/img/kitchenrack.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Metal Storage Cabnit",
+        "price": "$400",
+        "description": "Metal Storage Cabinet with 2 Lockable Drawers and 1 Lockable Door, Adjustable Shelf",
+        "imageSrc": "assets/img/roomcabnit.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Corner Cabinet, 23 x 63 Inches ",
+        "price": "$390",
+        "description": "Corner Cabinet, 23 x 63 Inches Corner Storage Cabinet, Corner Cabinet with Doors Adjustable Shelves",
+        "imageSrc": "assets/img/cornercabnit.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Kendall Wall Cabnit",
+        "price": "$200",
+        "description": "SystemBuild Kendall 54 Wall Cabinet in White",
+        "imageSrc": "assets/img/wallcabnit.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Storage Pantry Cabinets",
+        "price": "$200",
+        "description": "Sauder Miscellaneous Storage Pantry cabinets",
+        "imageSrc": "assets/img/panetrycabnit.jpg"
+    },
+    {
+        "id": 9,
+        "title": "COOLFXEND Kitchen Storage",
+        "price": "$600",
+        "description": "COOLFXEND Kitchen Storage Cabinets,5 Tiers Bakers Rack",
+        "imageSrc": "assets/img/kitchencabnit2.jpg"
+    }
+],
+"cellinglights":[
+    {
+        "id": 1,
+        "title": "Modern LED Ceiling Light",
+        "price": "$100",
+        "description": "Modern LED Ceiling Light, Dimmable LED Chandelier Black Flush Mount Ceiling Lights",
+        "imageSrc": "assets/img/cellinglight1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Beams Mb990 LED Lights",
+        "price": "$140",
+        "description": "Beams MB990 300 Lumen LED UltraBright Wireless Battery Powered Motion Sensing Indoor/Outdoor Ceiling Light",
+        "imageSrc": "assets/img/cellinglight2.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Modren Brass 3-Lights",
+        "price": "$100",
+        "description": "Modern Brass Gold 3-Light Ceiling Light with Globe White Glass Shade",
+        "imageSrc": "assets/img/light3.jpg"
+    },
+    {
+        "id": 4,
+        "title": "13 Inch Mount LED Light",
+        "price": "$200",
+        "description": "13 inch Flush Mount LED Ceiling Light Fixture, 2700K",
+        "imageSrc": "assets/img/light4.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Motion Sensor Outdoor Flush Mount Ceiling Light",
+        "price": "$200",
+        "description": "Motion Sensor Outdoor Flush Mount Ceiling Light - Sleek Round Exterior",
+        "imageSrc": "assets/img/light6.jpg"
+    },
+    {
+        "id": 6,
+        "title": "LED Flush Mount Celling Light",
+        "price": "$90",
+        "description": "TALOYA LED Flush Mount Ceiling Light 4 Pack Black 12 Inch ",
+        "imageSrc": "assets/img/light5.jpg"
+    }
+],
+"lamp":[
+    {
+        "id": 1,
+        "title": "Pokat 23 Modern Lamp",
+        "price": "$300",
+        "description": "PoKat 23 Modern Ceramic Table Lamp Set of 2 ",
+        "imageSrc": "assets/img/lamp1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Touch Table Lamp",
+        "price": "$140",
+        "description": "Industrial Touch Table Lamps for Bedrooms Set of 2 - 3-Way",
+        "imageSrc": "assets/img/lamp2.jpg"
+    },
+    {
+        "id": 3,
+        "title": "OYEARS Boho Table Lamps Bedroom",
+        "price": "$100",
+        "description": "OYEARS Boho Table Lamps Bedroom Living Room Set 2 Small Farmhouse Rattan Table Lamp",
+        "imageSrc": "assets/img/lamp3.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Modern Floor Lamp Simple Design",
+        "price": "$300",
+        "description": "Modern Floor Lamp Simple Design with White Shade, Foot Pedal Switch, 60",
+        "imageSrc": "assets/img/lamp4.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Ambimall Floor Lamp for Living Room",
+        "price": "$200",
+        "description": "Ambimall Floor Lamp for Living Room with 3 Color Temperatures LED Bulb",
+        "imageSrc": "assets/img/lamp5.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Bedside Table Lamp for Bedroom - 3 Way Dimmable Touch Lamp",
+        "price": "$90",
+        "description": "Bedside Table Lamp for Bedroom - 3 Way Dimmable Touch Lamp USB C Charging Ports and AC Outlet",
+        "imageSrc": "assets/img/lamp6.jpg"
+    }
+],
+"outdoorlighting":[
+    {
+        "id": 1,
+        "title": "SOLPEX Solar Light",
+        "price": "$100",
+        "description": "SOLPEX Solar Lights Outdoor Waterproof, 12 Pack Solar Ground Lights, Solar Garden Lights Landscape ",
+        "imageSrc": "assets/img/outlight1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "LED Out String Light",
+        "price": "$140",
+        "description": "addlon 50FT LED Outdoor String Lights with Edison Shatterproof Bulbs",
+        "imageSrc": "assets/img/outlight2.jpg"
+    },
+    {
+        "id": 3,
+        "title": "LYHOPE Solar Ground Lights Outdoor",
+        "price": "$100",
+        "description": "LYHOPE Solar Ground Lights Outdoor, 16 Pack 8 LED Solar Disk Lights Waterproof Garden In-ground Pathway Lights",
+        "imageSrc": "assets/img/outlight3.jpg"
+    },
+    {
+        "id": 4,
+        "title": "ZS 6Pack Total 48LED Solar Garden Lights",
+        "price": "$400",
+        "description": "ZS 6Pack Total 48LED Solar Garden Lights -Solar Lights Outdoor, Solar Firefly Lights, Sway by Wind, Solar Fairy Lights Outdoor Waterproof",
+        "imageSrc": "assets/img/outlight4.jpg"
+    },
+    {
+        "id": 5,
+        "title": "4 Pack String Light Poles",
+        "price": "$100",
+        "description": "4 Pack String Light Poles,9 Ft Metal Poles with Fork for Outdoor String Lights",
+        "imageSrc": "assets/img/outlight5.jpg"
+    },
+    {
+        "id": 6,
+        "title": "2-in-1 Solar Lights Outdoor 8 Pack",
+        "price": "$190",
+        "description": "2-in-1 Solar Lights Outdoor 8 Pack with Ground Stakes, RGBWW 10 Fixed Colors & 5 Modes",
+        "imageSrc": "assets/img/outlight6.jpg"
+    }
+],
+"countertop":[
+    {
+        "id": 1,
+        "title": "Acrylic Cutting Board with Counter",
+        "price": "$100",
+        "description": "Acrylic Cutting Board with Counter Lip,17.5 x13.5 Clear Cutting Board for Kitchen Countertop,Non-Slip",
+        "imageSrc": "assets/img/counter1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "WESTICK Peel and Stick Countertops",
+        "price": "$140",
+        "description": "WESTICK Peel and Stick Countertops Waterproof Wood Contact Paper for Countertops Waterproof",
+        "imageSrc": "assets/img/counter2.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Giani Granite CounterTop",
+        "price": "$100",
+        "description": "Giani Granite Countertop Paint Kit 2.0-100% Acrylic (Bombay Black)",
+        "imageSrc": "assets/img/counter3.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Counter On White Marble",
+        "price": "$200",
+        "description": "Instant Granite Premium 36” x 72” Kitchen Countertop Vinyl Laminate Cover | Easy Installation",
+        "imageSrc": "assets/img/conter4.jpg"
+    },
+    {
+        "id": 5,
+        "title": "YENHOME Peel and Stick Countertops",
+        "price": "$200",
+        "description": "YENHOME Peel and Stick Countertops 24 X 200 Inch Sandstone Black Brown Granite",
+        "imageSrc": "assets/img/counter5.jpg"
+    }
+],
+"backsplash":[
+    {
+        "id": 1,
+        "title": "YENHOME Peel and Stick Countertops",
+        "price": "$100",
+        "description": "YENHOME Peel and Stick Countertops",
+        "imageSrc": "assets/img/backsplash1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Mirror Tiles Silver Bathroom Wall Sheets",
+        "price": "$140",
+        "description": "Mirror Tiles Silver Bathroom Wall Sheets Crystal Diamond Mosaic Tile Backsplash",
+        "imageSrc": "assets/img/backsplash2.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Yipscazo 10 Sheet 12''x12'' ",
+        "price": "$100",
+        "description": "Yipscazo 10 Sheet 12''x12'' Peel and Stick Backsplash Tile for Kitchen Adhesive Stick on Backsplash Laundry Bathroom ",
+        "imageSrc": "assets/img/backsplash3.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Art3d 10-Sheet Premium Self-Adhesive Kitchen",
+        "price": "$200",
+        "description": "Art3d 10-Sheet Premium Self-Adhesive Kitchen Backsplash Tiles in Marble,30 * 30cm",
+        "imageSrc": "assets/img/backsplash4.jpg"
+    },
+    {
+        "id": 5,
+        "title": "TOKING 27-Pieces Peel and Stick Backsplash Tiles",
+        "price": "$200",
+        "description": "TUOKING 27-Pieces Peel and Stick Backsplash Tiles for Kitchen 4 x 12 PVC Self-Adhesive Subway Matte Faux Stone Wall Panel ",
+        "imageSrc": "assets/img/backsplash5.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Vamos Tile Upgraded Thicker Design Peel",
+        "price": "$170",
+        "description": "Vamos Tile Upgraded Thicker Design Peel and Stick Backsplash Tile, 10-Sheet Green Self Adhesive Vinyl Wall Tiles, Stick on Backsplash for Kitchen, Bathroom,RV",
+        "imageSrc": "assets/img/backsplash6.jpg"
+    }
+],
+"cabnit":[
+    {
+        "id": 1,
+        "title": "Bambo Kitchen Shelf",
+        "price": "$100",
+        "description": "NEX MOOACE Bamboo Kitchen Cabinet and Counter Shelf Organizer",
+        "imageSrc": "assets/img/bamboshelves.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Evelots Wire Rack Cabinet Shelf",
+        "price": "$200",
+        "description": "Evelots Wire Rack Cabinet Shelf Organizer Set of 2 White Kitchen Organization",
+        "imageSrc": "assets/img/rack.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Spice Jars Holder",
+        "price": "$200",
+        "description": "Spice Jars Holder In Minimum Space",
+        "imageSrc": "assets/img/spiceholder.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Kitchen Rack Set Of 4",
+        "price": "$190",
+        "description": "Kitchen Cabinet Organizer Shelves Set of 4",
+        "imageSrc": "assets/img/kitchenrack.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Metal Storage Cabnit",
+        "price": "$400",
+        "description": "Metal Storage Cabinet with 2 Lockable Drawers and 1 Lockable Door, Adjustable Shelf",
+        "imageSrc": "assets/img/roomcabnit.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Corner Cabinet, 23 x 63 Inches ",
+        "price": "$390",
+        "description": "Corner Cabinet, 23 x 63 Inches Corner Storage Cabinet, Corner Cabinet with Doors Adjustable Shelves",
+        "imageSrc": "assets/img/cornercabnit.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Kendall Wall Cabnit",
+        "price": "$200",
+        "description": "SystemBuild Kendall 54 Wall Cabinet in White",
+        "imageSrc": "assets/img/wallcabnit.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Storage Pantry Cabinets",
+        "price": "$200",
+        "description": "Sauder Miscellaneous Storage Pantry cabinets",
+        "imageSrc": "assets/img/panetrycabnit.jpg"
+    },
+    {
+        "id": 9,
+        "title": "COOLFXEND Kitchen Storage",
+        "price": "$600",
+        "description": "COOLFXEND Kitchen Storage Cabinets,5 Tiers Bakers Rack",
+        "imageSrc": "assets/img/kitchencabnit2.jpg"
+    }
+]
+
+}
